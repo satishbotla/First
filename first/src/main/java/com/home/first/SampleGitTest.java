@@ -7,6 +7,6 @@ public class SampleGitTest {
 		User user = new AccountUser();
 		System.out.println("Account user::"+user.getName());
 		System.out.println("Next update");
-		System.out.println("NEW LINE ADDED");
+		System.out.println("NEW LINE ADDED WELL MERGE SHOULD FAIL");
 	}
 }
